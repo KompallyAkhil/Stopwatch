@@ -1,0 +1,49 @@
+body{
+    background-image: url(Screenshot\ 2023-12-11\ 201052.png);
+    background-size: cover;
+    height: 80vh;
+}
+
+
+#count{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    font-size:100px;
+}
+#button{
+    text-align: center;
+    padding: 25px;
+}
+#start{
+    color: white;
+    font-size: 30px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
+}
+#stop{
+    color: white;
+    font-size: 30px;
+    border-radius: 15px ;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
+
+}
+#reset{
+    color: white;
+    font-size: 30px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
+}
+#start:hover{
+    cursor: pointer;
+}
+#stop:hover{
+    cursor: pointer;
+}
+#reset:hover{
+    cursor: pointer;
+}
